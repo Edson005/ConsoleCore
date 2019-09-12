@@ -1,0 +1,11 @@
+C:\inetpub\wwwroot\Cursos\ConsoleCore\GameTop\bin\Debug\netcoreapp2.1\GameTop.deps.json
+C:\inetpub\wwwroot\Cursos\ConsoleCore\GameTop\bin\Debug\netcoreapp2.1\GameTop.runtimeconfig.json
+C:\inetpub\wwwroot\Cursos\ConsoleCore\GameTop\bin\Debug\netcoreapp2.1\GameTop.runtimeconfig.dev.json
+C:\inetpub\wwwroot\Cursos\ConsoleCore\GameTop\bin\Debug\netcoreapp2.1\GameTop.dll
+C:\inetpub\wwwroot\Cursos\ConsoleCore\GameTop\bin\Debug\netcoreapp2.1\GameTop.pdb
+C:\inetpub\wwwroot\Cursos\ConsoleCore\GameTop\obj\Debug\netcoreapp2.1\GameTop.csprojAssemblyReference.cache
+C:\inetpub\wwwroot\Cursos\ConsoleCore\GameTop\obj\Debug\netcoreapp2.1\GameTop.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Cursos\ConsoleCore\GameTop\obj\Debug\netcoreapp2.1\GameTop.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\Cursos\ConsoleCore\GameTop\obj\Debug\netcoreapp2.1\GameTop.AssemblyInfo.cs
+C:\inetpub\wwwroot\Cursos\ConsoleCore\GameTop\obj\Debug\netcoreapp2.1\GameTop.dll
+C:\inetpub\wwwroot\Cursos\ConsoleCore\GameTop\obj\Debug\netcoreapp2.1\GameTop.pdb
